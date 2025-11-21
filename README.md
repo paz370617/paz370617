@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋Hola, soy Jose Paz
+Estos son mis primeros pasos como desarrollador web
+Actualmente aprendo HTML5, CCS3 y Javascript
+### 🔭 Objetivo actual
+Crear mis primeras paginas, hasta tener conocimiento solido y avanzar a proyectos mas grandes y profesionales
+### 🌱Lo que estoy aprendiendo
+* HTML5
+* CCS3
+* Git & Github
+* VScode
+### 📚Proximamente
+Javascript y proyectos mas avanzados para mi portafolio.
 
-<!--
-**paz370617/paz370617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Voy paso a paso, pero sobre hombros de gigantes.
